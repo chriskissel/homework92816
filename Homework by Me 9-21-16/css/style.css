@@ -1,0 +1,12 @@
+body{
+font-family:sans-serif;
+background-color:#ddd;
+background-image:url(../background_1024.jpg);
+background-size:contain;
+background-repeat: repeat-x; 
+background-position:50px 100px;
+background-repeat: no-repeat;
+
+}
+
+h1{ font-size: 200px; }
